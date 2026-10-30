@@ -1,6 +1,29 @@
 body {background-color: rgb(o, o, 0);}
+.nirvana-yellow{
+    background-color: #F2D705;
+}
 
 .container-sm {
     display: flex;
     
 }
+
+.card {
+    background:#F2D705;
+}
+
+.carousel-item img{
+width: 40en;
+height: 40en;
+max-height: 800px;
+object-fit: cover;
+margin: 0 auto;
+
+
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: brightness(0);
+}
+
